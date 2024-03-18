@@ -1,0 +1,1 @@
+# Ordner für sämtliche Kundendaten, strukuriert in Unterordner pro Kunde
